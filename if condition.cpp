@@ -1,0 +1,13 @@
+#include<stdio.h>
+#include<conio.h>
+main()
+{
+	printf("A");
+	if(7<3);
+	{
+		printf("B");
+		printf("C");
+	}
+	printf("M");
+	getch();
+}
