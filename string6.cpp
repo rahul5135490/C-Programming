@@ -1,0 +1,9 @@
+#include<stdio.h>
+#include<conio.h>
+main()
+{
+	printf("%s\n","welcome");
+	printf("%.3s\n","welcome");
+	printf(".3s\n",2+"welcome");
+	getch();
+}
